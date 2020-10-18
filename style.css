@@ -44,7 +44,7 @@ a.btn:hover { background: #cc7504;}
 	
 	
 	
-	img {display: block;
+	.alignleft {display: block;float:none;
     margin-left: auto;
 	margin-right: auto;}
 	
