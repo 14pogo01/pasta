@@ -11,6 +11,12 @@ font-family: Arial, sans-serif, verdana;
 
 #main {margin:0 auto;width:800px;}
 
+a {color:#0366d6;text-decoration:underline;}
+a:hover {text-decoration:none;}
+
+
+
+
 
 
 @media screen and (max-width: 650px)
