@@ -1,5 +1,5 @@
 body {
-	background-color: #fff;
+	background-color: #ccc;
 	color: #333;
 font-family: Arial, sans-serif, verdana;
 
@@ -10,7 +10,7 @@ font-family: Arial, sans-serif, verdana;
 
 .alignleft {float:left;margin:0 20px 20px 0;}
 
-#main {margin:0 auto;width:880px;}
+#main {margin:0 auto;width:880px;background-color:#fff;}
 
 a {color:#f49110;text-decoration:underline;}
 a:hover {text-decoration:none;}
