@@ -38,7 +38,7 @@ a.btn:hover { background: #cc7504;}
 @media screen and (max-width: 650px)
 {
     #main
-    {width:90%; }
+    {width:80%; }
 	
 	a.btn {font-size:16px;}
 	
