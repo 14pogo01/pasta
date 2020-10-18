@@ -38,4 +38,7 @@ a.btn:hover { background: #cc7504;}
 {
     #main
     {width:90%; }
+	
+	a.btn {font-size:16px;}
+	
 }
