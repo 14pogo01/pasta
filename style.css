@@ -7,3 +7,6 @@ font-family: Arial, sans-serif, verdana;
 	font-weight: 300;
 	line-height: 1.4;
 }
+
+
+#main {margin:0 auto;width:800px;}
