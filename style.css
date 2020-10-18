@@ -15,7 +15,7 @@ a {color:#f49110;text-decoration:underline;}
 a:hover {text-decoration:none;}
 
 
-.btn a {    font-size: .9em;
+a.btn {    font-size: .9em;
     background: #f49110;
     border: none;
     -webkit-border-radius: 2em;
@@ -25,7 +25,7 @@ a:hover {text-decoration:none;}
     margin: 0;
     padding: 1em 2em;}
 
-.btn a:hover { background: #cc7504;}
+a.btn :hover { background: #cc7504;}
 
 
 
